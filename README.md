@@ -13,8 +13,9 @@
 - Build a portfolio of projects by the end of the challenge
 
 - Develop problem-solving skills and coding best practices.
+
     <h2>Structure:</h2>
-    <p>The challenge is typically divided into daily topics, each focusing on a specific aspect of Python programming. Here’s a general outline of what participants might encounter:</p>
+        <p>The challenge is typically divided into daily topics, each focusing on a specific aspect of Python programming. Here’s a general outline of what participants might encounter:</p>
     
 1. **Day 1-7: Basics and Fundamentals**
    - Introduction to Python
@@ -54,6 +55,7 @@
     - Community Support: Many challenges have online communities or forums where participants can ask questions, share progress, and collaborate.
     
     - Portfolio Development: The challenge culminates in a project that can be added to a portfolio, showcasing your skills to potential employers or collaborators.
+
     <h2>Getting Started:</h2>
 
 - Resources: The challenge might be hosted on a website or shared through platforms like GitHub, with resources including daily tasks, exercises, and project guidelines.
