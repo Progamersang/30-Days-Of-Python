@@ -14,39 +14,54 @@
 
 - Develop problem-solving skills and coding best practices.
 
-
     <h2>Structure:</h2>
-        <p>The challenge is typically divided into daily topics, each focusing on a specific aspect of Python programming. Here’s a general outline of what participants might encounter:</p>
+    <p>The challenge is typically divided into daily topics, each focusing on a specific aspect of Python programming. Here’s a general outline of what participants might encounter:</p>
     
 1. **Day 1-7: Basics and Fundamentals**
    - Introduction to Python
+
    - Variables, Data Types, and Operators
+
    - Control Flow (if statements, loops)
+
    - Functions and Modules
+
    - Exception Handling
+
    - Basic Input/Output
 
-2. **Day 8-14: Data Structures**
+3. **Day 8-14: Data Structures**
    - Lists, Tuples, and Sets
+
    - Dictionaries
+
    - Comprehensions
+
    - Iterators and Generators
 
-3. **Day 15-21: Object-Oriented Programming**
+5. **Day 15-21: Object-Oriented Programming**
    - Classes and Objects
+
    - Inheritance and Polymorphism
+
    - Encapsulation and Abstraction
 
-4. **Day 22-28: Advanced Topics**
+7. **Day 22-28: Advanced Topics**
    - File Handling
+
    - Regular Expressions
+
    - Libraries and Frameworks (e.g., NumPy, Pandas)
+
    - Web Development Basics (e.g., Flask or Django)
 
-5. **Day 29-30: Project and Review**
+9. **Day 29-30: Project and Review**
    - Building a Capstone Project
+
    - Review and Reflection
+
    - Preparing for Further Learning and Advanced Topics
+
     <h2>Benefits:</h2>
     
     - Structured Learning: Follow a clear roadmap to cover essential Python topics.
@@ -59,11 +74,12 @@
 
     <h2>Getting Started:</h2>
 
-- Resources: The challenge might be hosted on a website or shared through platforms like GitHub, with resources including daily tasks, exercises, and project guidelines.
+    - Resources: The challenge might be hosted on a website or shared through platforms like GitHub, with resources including daily tasks, exercises, and project guidelines.
 
-- Commitment: Dedicate time each day to complete the tasks, practice coding, and review concepts.
+    - Commitment: Dedicate time each day to complete the tasks, practice coding, and review concepts.
 
-- Engagement: Engage with the community, seek help when needed, and stay motivated to complete the challenge.
+    - Engagement: Engage with the community, seek help when needed, and stay motivated to complete the challenge.
+
     <h2>Conclusion:</h2>
     <p>Completing the "30 Days of Python" challenge provides a comprehensive introduction to Python and equips participants with the skills needed to start developing their own projects or pursue further learning. It's a valuable experience for anyone looking to strengthen their programming abilities.</p>
 </div>
