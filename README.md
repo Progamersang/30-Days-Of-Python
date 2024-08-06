@@ -14,6 +14,7 @@
 
 - Develop problem-solving skills and coding best practices.
 
+
     <h2>Structure:</h2>
         <p>The challenge is typically divided into daily topics, each focusing on a specific aspect of Python programming. Here’s a general outline of what participants might encounter:</p>
     
